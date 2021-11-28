@@ -192,7 +192,7 @@ const styles = StyleSheet.create({
     backgroundColor: "gainsboro",
   },
   listContainer: {
-    height: height,
+    height: height * 11.1,
     flex: 1,
     flexDirection: "row",
     alignItems: "flex-start",
